@@ -7,7 +7,7 @@
 На тестирование затрачено: 15 минут
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Nixem25/-1---Money-Transfer/issues/1
+* [Отрицательный баланс счета после получения денег](https://github.com/Nixem25/-1---Money-Transfer/issues/1)
 
 ## Описание процесса тестирования
 1. Изменены названия переменных в коде, в соответствии с требованиями к задаче.
@@ -15,8 +15,8 @@
 3. Запущенно приложение.
 
 В процессе тестирования использовались следующие артефакты*:
-* Требования к Задаче №1 - Money Transfer https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---money-transfer
-* Шаблон программы https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java
+* [Требования к Задаче №1 - Money Transfer](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---money-transfer)
+* [Шаблон программы](https://github.com/netology-code/javaqa-code/blob/master/1.2_programming/variables/src/Main.java)
 
 
 
